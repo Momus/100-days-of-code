@@ -1,13 +1,19 @@
 # 100 Days Of Code - Log
 
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: March 7, 2018
+##### Getting feet wet.
 
 **Today's Progress**: Set up this repo.  Edited some Markdown. Got Emacs to work, more or less.
 
 **Thoughts:** Back in the saddle again!  
 
+### Day 2: March 8, 2018
+##### Hesitant but sure.
+
+**Today's Progress**: Uncrufted init files and re-worked fancy Bash prompt script that switches color based on machine, gives the exit code of the last process, and status of git directory.
+
+**Thoughts:** Learned more than I expected.
 
 
 
