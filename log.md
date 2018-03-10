@@ -1,12 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 4: March 10, 2018
+#### Start with some Bootstrap.
 
-### Day 1: March 7, 2018
-##### Getting feet wet.
+**Today's Progress:**
+* Put this log in reverse chronological order. A small step, but I think significant.
 
-**Today's Progress:** Set up this repo.  Edited some Markdown. Got Emacs to work, more or less.
+**Thoughts:**
 
-**Thoughts:** Back in the saddle again!  
+### Day 3: March 9, 2018
+#### Tutorials Away.
+**Today's Progress:** Finished the "HTML and CSS" portion of Free Boot Camp.
+**Thoughts:** Good review.
 
 
 ### Day 2: March 8, 2018
@@ -17,10 +22,18 @@
 **Thoughts:** Learned more than I expected.
 
 
-### Day 3: March 9, 2018
-#### Tutorials Away.
-**Today's Progress:** Finished the "HTML and CSS" portion of Free Boot Camp.
-**Thoughts:** Good review.
+### Day 1: March 7, 2018
+##### Getting feet wet.
+
+**Today's Progress:** Set up this repo.  Edited some Markdown. Got Emacs to work, more or less.
+
+**Thoughts:** Back in the saddle again!
+
+
+
+
+
+
 
 <!-- ### Day 0: February 30, 2016 (Example 1) -->
 <!-- ##### (delete me or comment me out) -->
