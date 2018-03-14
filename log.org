@@ -1,0 +1,16 @@
+
+#+TITLE: 100 Days of Code - Log
+#+OPTIONS: toc:nil
+
+
+* <2018-03-14 Wed> Starting Again
+
+*** Today's Progress:
+
+***** Changed this log to Org Mode exported to Markdown.
+
+***** Self-challenge: convert Wikipedia discography of Kiri Te Kanowa to json.
+
+* Credits:
+
+*** Github Flavored Mardown export by [[https://github.com/larstvei/ox-gfm][ox-gfm]]
