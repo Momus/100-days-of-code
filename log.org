@@ -1,9 +1,21 @@
-
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:t
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:t title:t toc:t todo:t |:t
 #+TITLE: 100 Days of Code - Log
+#+AUTHOR: Dmitri Brengauz
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 27.0.50 (Org mode 9.1.6)
+
+
+
 #+OPTIONS: toc:nil
 
 
-* <2018-03-14 Wed> Starting Again
+* <2018-03-14 Wed> Starting Again on Pie Day.
 
 *** Today's Progress:
 

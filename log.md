@@ -1,6 +1,6 @@
 
 
-# <span class="timestamp-wrapper"><span class="timestamp">&lt;2018-03-14 Wed&gt; </span></span> Starting Again
+# <span class="timestamp-wrapper"><span class="timestamp">&lt;2018-03-14 Wed&gt; </span></span> Starting Again on Pie Day.
 
 
 ## Today's Progress:
