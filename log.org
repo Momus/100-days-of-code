@@ -21,6 +21,8 @@
 ******* Changed this log to Org Mode exported to Markdown.
 
 ******* Self-challenge: convert Wikipedia discography of Kiri Te Kanowa to json.
+        1. 
+        2. 
 
 * Credits:
 
